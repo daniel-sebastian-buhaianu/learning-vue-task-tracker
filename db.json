@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Sleep",
+      "day": "27 June 23:00",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Call Finaru",
+      "day": "28 June 18:30",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Write some code",
+      "day": "Every day @ 7AM",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
